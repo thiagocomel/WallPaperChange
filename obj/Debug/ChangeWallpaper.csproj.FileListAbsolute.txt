@@ -1,0 +1,9 @@
+D:\NDDIGITAL\TESTES\ChangeWallpaper\ChangeWallpaper\bin\Debug\ChangeWallpaper.exe
+D:\NDDIGITAL\TESTES\ChangeWallpaper\ChangeWallpaper\bin\Debug\ChangeWallpaper.pdb
+D:\NDDIGITAL\TESTES\ChangeWallpaper\ChangeWallpaper\obj\Debug\ResolveAssemblyReference.cache
+D:\NDDIGITAL\TESTES\ChangeWallpaper\ChangeWallpaper\obj\Debug\ChangeWallpaper.csproj.GenerateResource.Cache
+D:\NDDIGITAL\TESTES\ChangeWallpaper\ChangeWallpaper\obj\Debug\ChangeWallpaper.exe
+D:\NDDIGITAL\TESTES\ChangeWallpaper\ChangeWallpaper\obj\Debug\ChangeWallpaper.pdb
+D:\NDDIGITAL\TESTES\ChangeWallpaper\ChangeWallpaper\obj\Debug\ChangeWallpaper.WallpaperChanger.resources
+W:\Documentos\OLD DOCS\PROJETOS TESTE\ChangeWallpaper\ChangeWallpaper\obj\Debug\ChangeWallpaper.exe
+W:\Documentos\OLD DOCS\PROJETOS TESTE\ChangeWallpaper\ChangeWallpaper\obj\Debug\ChangeWallpaper.pdb
